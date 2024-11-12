@@ -1,0 +1,25 @@
+/* styles.css */
+body {
+    background-color: #f0f8ff; /* Light blue background */
+}
+
+.card {
+    border-radius: 10px;
+}
+
+.card-body {
+    padding: 20px;
+}
+
+h3 {
+    color: #004080; /* Dark blue text */
+}
+
+.table thead th {
+    background-color: #004080; /* Dark blue background for table headers */
+    color: white; /* White text for headers */
+}
+
+.table {
+    margin-top: 20px;
+}
