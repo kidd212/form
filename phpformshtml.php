@@ -133,7 +133,7 @@
         </select>
         <span class="error" id="genderError"></span>
 
-        <label for="comment">Comment<span>*</span>:</label>
+        <label for="comment">Comments<span>*</span>:</label>
         <textarea id="comment" name="comment" rows="4" required></textarea>
         <span class="error" id="commentError"></span>
 
